@@ -9,6 +9,8 @@ import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
 
+
+//hola mundo
 @Controller
 @RequestMapping("/Admin")
 public class AdminController {
